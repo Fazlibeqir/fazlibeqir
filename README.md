@@ -34,6 +34,6 @@
 
 <h2>Currently Learning</h2>
 
-[![Currently Learning](https://skillicons.dev/icons?i=vue,flutter,dart,anaconda&perline=9)](https://skillicons.dev)
+[![Currently Learning](https://skillicons.dev/icons?i=vue,flutter,dart,anaconda,firebase&perline=9)](https://skillicons.dev)
 
 
