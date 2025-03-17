@@ -26,7 +26,7 @@
 </div>
 <h2>Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,ts,js,cpp,c,python,dart,html,css,cmake,zig&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,ts,js,cpp,c,python,dart,html,css,bootstrap,cmake,zig&perline=15)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=spring,angular,react,dotnet,django,vue,docker,flutter,postgres&perline=15)](https://skillicons.dev)
 
