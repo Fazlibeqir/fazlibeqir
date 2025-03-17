@@ -26,14 +26,16 @@
 </div>
 <h2>Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,ts,js,cpp,c,python,html,css,cmake&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,ts,js,cpp,c,python,dart,html,css,cmake,zig&perline=15)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=spring,angular,react,dotnet,django,docker,postgres,blender,postman&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,angular,react,dotnet,django,vue,docker,flutter,postgres&perline=15)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,windows,notion&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,blender,postman,godot&perline=15)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,anaconda,windows,notion&perline=9)](https://skillicons.dev)
 
 <h2>Currently Learning</h2>
 
-[![Currently Learning](https://skillicons.dev/icons?i=vue,flutter,dart,anaconda,firebase,godot&perline=9)](https://skillicons.dev)
+[![Currently Learning](https://skillicons.dev/icons?i=kubernetes,aws,vim&perline=9)](https://skillicons.dev)
 
 
