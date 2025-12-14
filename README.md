@@ -16,12 +16,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=spring,angular,react,dotnet,django,vue,docker,flutter,postgres&perline=15)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,blender,postman,godot&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,blender,postman,godot,kubernetes,aws&perline=15)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,anaconda,windows,notion&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,vim,anaconda,windows,notion&perline=9)](https://skillicons.dev)
 
 <h2>Currently Learning</h2>
 
-[![Currently Learning](https://skillicons.dev/icons?i=kubernetes,aws,vim&perline=9)](https://skillicons.dev)
 
 
