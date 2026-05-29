@@ -12,13 +12,13 @@
 </div>
 <h2>Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,ts,js,cpp,c,python,dart,html,css,bootstrap,cmake,zig&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,ts,js,cpp,c,python,html,css,bootstrap,zig&perline=15)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=spring,angular,react,dotnet,django,vue,docker,flutter,postgres&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,react,dotnet,vue,docker,postgres&perline=15)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,blender,postman,godot,kubernetes,aws&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,blender,postman,kubernetes,aws&perline=15)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,vim,anaconda,windows,notion&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,vim,windows,notion&perline=9)](https://skillicons.dev)
 
 <h2>Currently Learning</h2>
 
